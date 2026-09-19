@@ -12,10 +12,10 @@ Nombre del producto: CompuCare
 
 | Nombre completo | Código de estudiante |
 |---|---|
-- Matthew Shinko Okuhama Diaz u202419311
-- Fernando André Condezo Pacheco u202411324
-- Sergio Luis Miranda Romero u20231b331
-- Antony David Yauri Barrios u202214499
+|Matthew Shinko Okuhama Diaz|u202419311|
+|Fernando André Condezo Pacheco|u202411324|
+|Sergio Luis Miranda Romero| u20231b331|
+|Antony David Yauri Barrios| u202214499|
 
 # Capítulo I: Introducción
 
@@ -62,7 +62,7 @@ de responsabilidades y el uso de un repositorio compartido en GitHub.
 | Integrante | Presentación y contribución |
 |---|---|
 | [Nombre completo] | [Breve presentación, habilidades y responsabilidad en el proyecto] |
-| [Nombre completo] | [Breve presentación, habilidades y responsabilidad en el proyecto] |
+| Yauri Barrios, Antony David | Soy estudiante de Ingeniería de Software, tengo 22 años y trabajo con los stacks MERN y PERN. Me gusta trabajar en equipo, compartir conocimientos y seguir aprendiendo de mis compañeros para mejorar constantemente. |
 | [Nombre completo] | [Breve presentación, habilidades y responsabilidad en el proyecto] |
 | [Nombre completo] | [Breve presentación, habilidades y responsabilidad en el proyecto] |
 
